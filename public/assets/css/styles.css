@@ -35,3 +35,9 @@ border: none;
     }
     
 } 
+
+.eas-body{
+    background-image: url("./bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
