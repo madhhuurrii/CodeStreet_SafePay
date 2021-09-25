@@ -12,6 +12,10 @@ router.get('/',(req,res)=>{
 
     res.render('login');
 })
+router.get('/signup',(req,res)=>{
+
+    res.render('register');
+})
 router.get('/index',(req,res)=>{
 
     res.render('index');
