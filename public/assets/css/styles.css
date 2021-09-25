@@ -41,3 +41,17 @@ border: none;
     background-repeat: no-repeat;
     background-size: cover;
 }
+.achievement-cards {
+	/* background-color: #ffffff; */
+	/* margin: 10px; */
+	height: 500px;
+	box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.41);
+	/* border-radius: 10px; */
+    border: 5px solid #7DEDFF  ;
+    background: transparent;
+
+	/* box-shadow: ; */
+}
+.eas-service{
+    background: rgba(124, 131, 253, 0.8);
+}
